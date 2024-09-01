@@ -1,7 +1,7 @@
 ---
-title: River(雷圳鹏)
-description: River Ray's Portfolio
-image: https://leizhenpeng.com/og.png
+title: r7(沈汝琪)
+description: r7's Portfolio
+image:
 plum: true
 ---
 
@@ -17,12 +17,11 @@ Feel free to drop me a [hello](mailto:laolei@forkway.cn?Subject=Hello), explore 
 
 ---
 
-Find me on
+如何找到我？
 
 <p flex="~ gap-3 wrap" class="mt--2!">
-  <a href="https://github.com/leizhenpeng" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://space.bilibili.com/66891783" target="_blank"><span op75 i-simple-icons-bilibili /> 哔哩哔哩</a>
-  <a href="https://book.douban.com/people/151095889/collect" target="_blank"><span op75 i-simple-icons-douban /> 豆瓣读书</a>
-  <a href="https://web.okjike.com/u/29910575-F12D-4E48-9DDE-B25FE55D1F94" target="_blank" > <Jike op-75 w-5 inline h-5/> 即刻</a>
+  <a href="https://github.com/wtechtec" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
+  <a href="https://space.bilibili.com/16159014" target="_blank"><span op75 i-simple-icons-bilibili /> 哔哩哔哩</a>
+  <a href="https://web.okjike.com/u/006e2805-aaa1-4a27-903f-8905ddf21911" target="_blank" > <Jike op-75 w-5 inline h-5/> 即刻</a>
+  <a href="https://blog.csdn.net/weixin_42429220?spm=1000.2115.3001.5343" target="_blank" > <Csdn op-75 w-5 inline h-5/> CSDN</a>
 </p>
-

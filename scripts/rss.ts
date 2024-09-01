@@ -8,8 +8,8 @@ import { Feed } from 'feed'
 
 const DOMAIN = 'https://leizhenpeng.com'
 const AUTHOR = {
-  name: 'River Ray',
-  email: 'hi@leizhenpeng.com',
+  name: 'r7',
+  email: '504105925@qq.com',
   link: DOMAIN,
 }
 const markdown = MarkdownIt({
@@ -26,11 +26,11 @@ async function buildBlogRSS() {
   const files = await fg('pages/posts/*.md')
 
   const options = {
-    title: 'River Ray',
-    description: 'River Ray\' Blog',
+    title: 'R7 沈汝琪',
+    description: 'R7\' Blog',
     id: 'https://leizhenpeng.com/',
     link: 'https://leizhenpeng.com/',
-    copyright: 'CC BY-NC-SA 4.0 2024 © River Ray',
+    copyright: 'R7 沈汝琪',
     feedLinks: {
       json: 'https://leizhenpeng.com/feed.json',
       atom: 'https://leizhenpeng.com/feed.atom',

@@ -1,5 +1,5 @@
 ---
-title: Projects - River Ray
+title: Projects - R7 沈汝琪
 display: Projects
 description: List of projects that I am proud of
 plum: true
@@ -10,8 +10,6 @@ projects:
       link: 'https://github.com/leizhenpeng/chrome-extension-meta'
       desc: '一个浏览器扩展，为开发者提供全面的GPTs分析。'
       icon: 'i-simple-icons-googlechrome'
-
-
 
   Feishu Extension:
     - name: 'Feishu OpenAI'
@@ -44,8 +42,6 @@ projects:
       link: 'https://github.com/Leizhenpeng/jike-huang'
       desc: '重新定义即刻网页版的体验'
       icon: 'jike'
-
-
 
   Websites / Online Tools:
     - name: 'Midjourney Web'
@@ -84,14 +80,11 @@ projects:
       desc: 'Opinionated Qwik Starter Template'
       icon: 'i-carbon-campsite'
 
-
-
   Intellij Extensions:
     - name: 'Kimi Commits'
       link: 'https://plugins.jetbrains.com/plugin/23629-kimi-commits'
       desc: 'Generate Git commit messages with the assistance of Kimi-AI, making code commits a breeze.'
       icon: 'i-carbon-face-wink'
-
 
   Golang Tricks:
     - name: 'Golang Trick'
@@ -267,9 +260,6 @@ projects:
       link: 'https://mastergo.com/community/plugin/79301224750888'
       desc: '等距离切割并导出图片'
       icon: 'i-solar-smart-speaker-2-line-duotone'
-
-
-
 
 ---
 
