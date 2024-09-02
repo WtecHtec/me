@@ -41,6 +41,7 @@ function slug(name: string) {
             <Jike v-else-if="item.icon === 'jike'" class="h-8 w-8 opacity-50" />
             <Shoot v-else-if="item.icon === 'shoot'" class="h-8 w-8 opacity-50" />
             <Csdn v-else-if="item.icon === 'csdn'" class="h-8 w-8 opacity-50" />
+            <Home v-else-if="item.icon === 'home'" class="h-8 w-8 opacity-50" />
             <div v-else class="text-3xl opacity-50" :class="item.icon || 'i-carbon-unknown'" />
           </div>
           <div class="flex-auto">
@@ -51,9 +52,7 @@ function slug(name: string) {
       </div>
     </div>
     <div class="prose pb5 mx-auto mt10 text-center">
-      <div block mt-5>
-        <a href="https://leizhenpeng.com/stars-rank" target="_blank" op50>All projects sort by Stars</a>
-      </div>
+      <div block mt-5 />
     </div>
   </div>
   <div>

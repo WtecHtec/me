@@ -1,4 +1,4 @@
-**[leizhenpeng.com](https://leizhenpeng.com)**
+**[Me](https://r7.nuxt.dev/)**
 
 my personal website
 
