@@ -80,7 +80,7 @@ projects:
     - name: '头像制造厂'
       link: 'https://js.design/community?category=detail&type=plugin&id=65893610d0fb78b349d96d35'
       desc: '根据你的配置生成独特的头像。'
-      icon: 'i-simple-icons-davinciresolve'
+      icon: 'i-simple-icons-headphonezone'
     - name: 'PPT助手'
       link: 'https://js.design/community?category=detail&type=plugin&id=65589683e8b43e04c023226f'
       desc: '设计稿丝滑转换好看的PPT。'
