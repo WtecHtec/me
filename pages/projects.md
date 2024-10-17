@@ -6,10 +6,10 @@ plum: true
 wrapperClass: 'text-center'
 projects:
   最近:
-    - name: '放大镜录屏'
-      link: 'https://chromewebstore.google.com/detail/%E6%94%BE%E5%A4%A7%E9%95%9C%E5%BD%95%E5%B1%8F/oamckfgecgfenpchklfhelhnngmhdnma?authuser=0&hl=zh-CN'
-      desc: '一个浏览器扩展，让录屏关键区域更好的展现。'
-      icon: 'i-simple-icons-scaleway'
+   - name: 'Switch Mate'
+     link: 'https://apps.apple.com/us/app/switch-mate-pro/id6723865383'
+     desc: '快捷切换输入法、根据应用程序自行切换输入法'
+     icon: 'i-hugeicons-keyboard'
   Source Learning:
     - name: '一些脚本、组件集合'
       link: 'https://github.com/WtecHtec/WorkNotes'
@@ -36,6 +36,10 @@ projects:
       desc: '一个让关键区域更好展现的录屏应用。'
       icon: 'i-simple-icons-screencastify'
   Chrome Extensions:
+    - name: '放大镜录屏'
+      link: 'https://chromewebstore.google.com/detail/%E6%94%BE%E5%A4%A7%E9%95%9C%E5%BD%95%E5%B1%8F/oamckfgecgfenpchklfhelhnngmhdnma?authuser=0&hl=zh-CN'
+      desc: '一个浏览器扩展，让录屏关键区域更好的展现。'
+      icon: 'i-simple-icons-scaleway'
     - name: 'Say Snap'
       link: 'https://chromewebstore.google.com/detail/saysnap/nodnlkmbcbkndbpgaopecgjpffhijkda?authuser=0&hl=zh-CN'
       desc: '快速分享在网上冲浪文字,生成好看的卡片。'
