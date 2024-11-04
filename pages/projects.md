@@ -15,6 +15,10 @@ projects:
      link: 'https://apps.apple.com/us/app/switch-mate-pro/id6723865383'
      desc: '快捷切换输入法、根据应用程序自行切换输入法'
      icon: 'i-simple-icons-aparat'
+   - name: 'Sparkle Easy'
+     link: 'https://sparkleeasy.pages.dev/'
+     desc: '快速生成sparkle配置、快速了解应用程序已授权的权限并可以重置它们'
+     icon: 'i-simple-icons-sparkpost'
   Electron:
     - name: 'LLM AppleScript'
       link: 'https://github.com/WtecHtec/NanoAutoWeb'
