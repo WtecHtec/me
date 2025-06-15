@@ -1,5 +1,5 @@
 ---
-title: r7(沈汝琪)
+title: (沈汝琪)
 description: r7's Portfolio
 image:
 plum: true
@@ -7,13 +7,7 @@ plum: true
 
 Hey, 我是沈汝琪
 
-👨‍💻 前端开发者，懂点其他端的技术
-
-🏸 热爱羽毛球，工作与生活充满活力
-
-💡 坚信创意是推动一切的动力
-
-🚀 始终将想法转化为现实
+主要写前端，偶尔也会摸一摸其他端的开发者。
 
 🔗 欢迎一起看看我做的 [<Home op-75 w-5 inline h-5 /> 项目](/projects)或联系我一起打球🏸！
 

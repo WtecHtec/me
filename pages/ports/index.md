@@ -1,5 +1,5 @@
 ---
-title: Blog - R7 沈汝琪
+title: Blog - 沈汝琪
 display: ''
 plum: true
 ---

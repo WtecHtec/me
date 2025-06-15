@@ -1,5 +1,5 @@
 ---
-title: 项目 - R7 沈汝琪
+title: 项目 - 沈汝琪
 display: 项目
 description: 做过的项目
 plum: true

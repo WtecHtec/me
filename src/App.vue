@@ -1,15 +1,12 @@
 <script setup lang="ts">
-    import { onMounted } from 'vue'
 const route = useRoute()
 
 const imageModel = ref<HTMLImageElement>()
 
+// onMounted(() => {
+//   location.replace("//r7.nuxt.dev")
+// })
 
-
-onMounted(() => {
-  location.replace("//iam.xujingyichang.top")
-})
-  
 useEventListener('click', async (e) => {
   const path = Array.from(e.composedPath())
   const first = path[0]
